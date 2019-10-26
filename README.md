@@ -1,4 +1,4 @@
-### Author: Jakub Knapik, Maciej Knapik, Kamil Letniowski, Patryk Gucik
+### Author:Maciej Knapik
 
 # Setting up the application
 
